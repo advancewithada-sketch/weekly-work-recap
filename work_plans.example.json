@@ -1,0 +1,16 @@
+{
+  "note": "Per-client 90-day plans and project timelines. You fill these. While a client's entry is empty, the weekly recap says nothing about plans for them.",
+  "plans": {
+    "Client A (7h cap)": {
+      "client": "Client A",
+      "goal": "Onboarding runs without the founder by the end of the quarter",
+      "milestones": [
+        { "name": "Map the current onboarding steps", "due": "2026-01-16", "done": true },
+        { "name": "Build the welcome sequence", "due": "2026-02-06", "done": false },
+        { "name": "Hand off to the team and document it", "due": "2026-03-13", "done": false }
+      ]
+    },
+    "Client B (4h cap)": {}
+  },
+  "updated": "2026-01-05"
+}
